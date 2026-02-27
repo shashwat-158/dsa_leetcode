@@ -12,7 +12,7 @@ class Solution:
         return []
 # -------------------------------------
 
-# --- RUN THIS LOCALLY IN VS CODE ---
+# --- RUN THIS LOCALLY  ---
 if __name__ == '__main__':
     sol = Solution()
     
